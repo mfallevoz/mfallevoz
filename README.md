@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Melchior 👋
 
-<!--
-**mfallevoz/mfallevoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer (3+ yrs)** — I build and ship web platforms, e-commerce stores and automation workflows end-to-end.
 
-Here are some ideas to get you started:
+🔧 **Stack:** TypeScript · React · Vue · Node.js · PHP · Python · PostgreSQL / MySQL / MongoDB · Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛒 **Focus:** E-commerce (Shopify / Liquid, Stripe) and automation (Make, Airtable)
+
+🌏 **Location:** Based in Asia — open to relocating to Japan (visa welcome) and remote
+
+🗣️ **Languages:** French (native) · English (fluent) · Japanese (basic, improving)
+
+## 🚀 Featured projects
+
+**PokéTrainer** — learn competitive Pokémon strategy through two mini-games · https://poketrainer.xyz · React / TypeScript
+
+**Portfolio** — https://mfallevoz.me
+
+## 📫 Reach me
+
+✉️ fallevoz.melchior@gmail.com · 💼 https://linkedin.com/in/mfallevoz · 🌐 https://mfallevoz.me
