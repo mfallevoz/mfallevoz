@@ -6,7 +6,7 @@
 
 🛒 **Focus:** E-commerce (Shopify / Liquid, Stripe) and automation (Make, Airtable)
 
-🌏 **Location:** Based in Asia — open to relocating to Japan (visa welcome) and remote
+🌏 **Location:** Based in Asia — open to relocate and remote
 
 🗣️ **Languages:** French (native) · English (fluent) · Japanese (basic, improving)
 
